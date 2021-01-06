@@ -1,0 +1,13 @@
+{"message":"Bookmark with id d9b63a23-0f20-4ec1-9cfe-9ef6ed8f6efd is added","level":"info"}
+{"message":"Bookmark with id d033a2ee-4cfc-4d43-bbbe-8624291c8947 is added","level":"info"}
+{"message":"Bookmark with id dc14b2f9-f2a8-4810-af22-55b67bca938d is added","level":"info"}
+{"message":"Bookmark with id 8sdfbvbs65sd deleted","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/8sdfbvbs65sd","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/8sdfbvbs65sd","level":"error"}
+{"message":"Invalid rating '6' supplied","level":"error"}
+{"message":"Invalid rating '5' supplied","level":"error"}
+{"message":"Invalid rating '5' supplied","level":"error"}
+{"message":"Invalid rating '4' supplied","level":"error"}
+{"message":"Invalid url 'This is card 4' supplied","level":"error"}
+{"message":"Bookmark with id 68e7328f-bf7e-4ca1-8592-2a55afc45d78 is added","level":"info"}
